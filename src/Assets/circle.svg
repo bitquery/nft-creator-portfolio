@@ -1,0 +1,6 @@
+<svg width="200" height="200">
+  <circle cx="100" cy="100" r="50" fill="blue">
+    <animate attributeName="r" from="50" to="80" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="blue;green;red;purple;orange" dur="10s" repeatCount="indefinite" />
+  </circle>
+</svg>
